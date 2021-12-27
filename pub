@@ -1,0 +1,10 @@
+###
+ # @LastEditors: SteveL
+### 
+#!/usr/bin/env csh
+hugo -t tranquilpeak
+cd public
+git add . --all
+git commit -am "$1"
+git push
+cd ..
