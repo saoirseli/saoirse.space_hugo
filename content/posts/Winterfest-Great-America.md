@@ -6,7 +6,7 @@ categories:
 tags:
   - Parks
 autoThumbnailImage: false
-thumbnailImagePosition: left
+thumbnailImagePosition: center
 thumbnailImage: images/Winterfest.jpg
 coverImage: images/Winterfest.jpg
 metaAlignment: center
@@ -17,8 +17,6 @@ Last week was sure fun visiting Great America during it's Winterfest event!
 <!--more-->
 
 # Christmas Tree Lighting
-
-![Image](/images/Winterfest.jpg)
 
 The image above was of before the tree lights up, and included below is an image of afterwards. I have to say, it was impressive. The daily Lighting Ceremony is at 5:30 each day, and, if you're visiting California's Great America, don't miss it!
 
