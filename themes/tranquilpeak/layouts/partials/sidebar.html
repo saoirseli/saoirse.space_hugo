@@ -17,8 +17,8 @@
     <ul class="sidebar-buttons">
       {{ partial "menu.html" (dict "menu" .Site.Menus.links "root" $) }}
     </ul>
-    <ul style="text-align: center;" class="sidebar-buttons">
+    <center><ul class="sidebar-buttons">
       {{ partial "menu.html" (dict "menu" .Site.Menus.misc "root" $) }}
-    </ul>
+    </ul></center>
   </div>
 </nav>
