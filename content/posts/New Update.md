@@ -1,6 +1,6 @@
 ---
 title: "New Update!"
-date: 2022-12-20
+date: 2022-01-20
 autoThumbnailImage: false
 thumbnailImagePosition: left
 thumbnailImage: images/cover.jpg
