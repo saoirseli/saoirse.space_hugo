@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webserver": "^5.0.1"
+  }
+}

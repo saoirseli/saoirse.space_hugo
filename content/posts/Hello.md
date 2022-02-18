@@ -7,7 +7,7 @@ thumbnailImage: images/cover.jpg
 coverImage: images/update.jpg
 ---
 
-HI
+Hi! Welcome to my (Saoirse's) website!
 
 <!--more-->
 

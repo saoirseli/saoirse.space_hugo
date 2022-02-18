@@ -11,9 +11,18 @@ thumbnailImage: images/Winterfest.jpg
 coverImage: images/Winterfest.jpg
 ---
 
+<style>
+.christmas {
+  font-family: monospace;
+  color: blue;
+}
+</style>
+
 Last week was sure fun visiting Great America during it's Winterfest event!
 
 <!--more-->
+
+Test
 
 # Christmas Tree Lighting
 
@@ -25,13 +34,11 @@ The image above was of before the tree lights up, and included below is an image
 
 Every time, during the Winterfest season, Great America would turn its pond into an ice skating rink. When entering, go to the right, and you'll find the booth where they are renting ice skates. You can ask for all-day, or hourly, I think. Last time we went, which was on the 20th, my dad had to carry the skates around in a backpack when we stopped skating the first time for the lighting ceremony, mentioned above. There are these small, red, low sticks for holding, and they can go fast, but there are also, bigger, bulkier, red / blue things, sort of like stands, which one can push around, though it's slower, or as many people prefer, just skating without help.
 
-![Skating Rink!](/#)
+![Skating Rink!](/images/ice_skating_rink.jpeg)
 
 # Let It Snow
 
 Every 15 min, as well as after the Tree Lighting Ceremoney or the performance of Cool Yule Christmas, in the Celebration Plaza, snow will fall from the sky. It's a wonder how they have snow falling from the sky, while everything goes on.
-
-!["Snowing"](/#)
 
 # Decorating Cookies with Mrs. Claus
 
