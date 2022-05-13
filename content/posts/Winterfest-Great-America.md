@@ -1,8 +1,6 @@
 ---
 title: "Great America Winterfest"
 date: 2021-12-27
-categories:
-  - vacation
 tags:
   - Parks
 autoThumbnailImage: false

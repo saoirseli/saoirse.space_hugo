@@ -1,5 +1,5 @@
 ---
-title: "Spring Break #1"
+title: "Vacation Accounts #1"
 date: 2022-02-03
 autoThumbnailImage: false
 thumbnailImagePosition: left
@@ -7,13 +7,13 @@ thumbnailImage: images/egyptian museum.jpg
 coverImage: images/update.jpg
 ---
 
-This is the first of a series for my Spring Break! Destination: Rosicrucian Egyptian Museum at San Jose
+This is the first of a series for my Spring Break! Destination: Rosicrucian Egyptian Museum at San Jose!
 
 <!--more-->
 
 # Egypt's First Pyramid
 
-There was a model of a city constructed in Egypt five thousand years ago. Built dedicated to King Zoser, city for the dead, by the famous Imhotep. It still stands today! Underneath is a sideview of the model, as well as a description of the pyramid.
+There was a model of a city constructed in Egypt five thousand years ago. Built dedicated to King Zoser, city for the dead, by the famous Imhotep. It still stands today! Underneath is a sideview of the model, as well as a description of the pyramid. Look at the dots in the courtyard! Each dot is a human!
 
 # Alchemy
 

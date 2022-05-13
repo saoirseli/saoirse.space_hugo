@@ -16,6 +16,7 @@ We'll divided our quotes into several sections, so feel free to scroll through!
 ## Motivational
 
 ![Inspire you](/images/inspiration.jpeg)
+.
 
 1. “When you have a dream, you’ve got to grab it and never let go.”
    — Carol Burnett
@@ -47,6 +48,7 @@ We'll divided our quotes into several sections, so feel free to scroll through!
 ## Friendship
 
 ![Be glad of your bestie!](/images/friendship.jpeg)
+.
 
 10. “Friendship is the hardest thing in the world to explain. It’s not something you learn in school. But if you haven’t learned the meaning of friendship, you really haven’t learned anything.”
     — Muhammad Ali
