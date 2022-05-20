@@ -19,4 +19,4 @@ So the AAH stands for Animal Assisted Happiness. Their mission is to help youths
 
 # The Orientation
 
-Our Orientation began when we signed in via the volunteer sheet, at 10:30. The founder, Vicki Amon-Higa, and her son, Johnathon Amon, as well as 2 Youth Volunteers, led us to the entrance. There was a small bridge, accept with no hole underneath, and a "kindness"
+Our Orientation began when we signed in via the volunteer sheet, at 10:30. The founder, Vicki Amon-Higa, and her son, Johnathon Amon, as well as 2 Youth Volunteers, led us to the entrance. There was a small bridge, accept with no gap underneath, and a beatiful border.
