@@ -22,3 +22,5 @@ There was a whole gallery dedicated to Alchemy back then. In the image below, th
 # Garden and Cool Models
 
 Posted below are some images of the garden and some cool models. See you in the next post!
+
+**Edit:** Images still being posted. Please wait patiently. They are expected at Thursday, May 26, but may be delayed

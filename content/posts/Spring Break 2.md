@@ -19,4 +19,7 @@ So the AAH stands for Animal Assisted Happiness. Their mission is to help youths
 
 # The Orientation
 
-Our Orientation began when we signed in via the volunteer sheet, at 10:30. The founder, Vicki Amon-Higa, and her son, Johnathon Amon, as well as 2 Youth Volunteers, led us to the entrance. There was a small bridge, accept with no gap underneath, and a beatiful border.
+Our Orientation began when we signed in via the volunteer sheet, at 10:30. The founder, Vicki Amon-Higa, and her son, Johnathon Amon, as well as 2 Youth Volunteers, led us to the entrance. There was a small bridge, accept with no gap underneath, and a beatiful border. We toured the place, and I went was selected to go into the
+dove area. ALl of the animals were so soft! I learned how to hold a chicken, as well as felt small goats. I never knew there were Pygmy Goats, like the Pygmy Puffs in Harry Potter! i wonder if Rowling got the idea from that the Pygmy goat type! Most of the things were apparently scout made, and the bunny exhibition was the favorite and most crowded exhibition. We also met a tortoise, as well as alpacas!!!!, mini horses, and pigs. A mini Donkey accompanied the mini horses, and even though he was obese, they let him be as happy as they wanted.
+
+The one leading the procession mentioned that when us kids were older, they could become Youth Volunteers. And apparently, they do excellent letters of recommendation. I wanna become one someday!
