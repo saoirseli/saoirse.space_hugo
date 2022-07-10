@@ -5,8 +5,8 @@ tags:
   - Parks
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: images/winterfest.jpg
-coverImage: images/winterfest.jpg
+thumbnailImage: images/winterfest_tree.jpg
+coverImage: images/winterfest_tree.jpg
 ---
 
 <style>
