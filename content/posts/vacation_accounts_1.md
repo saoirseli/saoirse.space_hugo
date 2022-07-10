@@ -3,8 +3,8 @@ title: "Vacation Accounts #1"
 date: 2022-02-03
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: images/egyptian museum.jpg
-coverImage: images/update.jpg
+thumbnailImage: images/egyptian_musuem.png
+coverImage: false
 ---
 
 This is the first of a series for my Spring Break! Destination: Rosicrucian Egyptian Museum at San Jose!

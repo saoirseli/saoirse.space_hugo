@@ -5,7 +5,7 @@ categories:
   - vacation
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: false
+thumbnailImage: images/vacation_sample_1.jpg
 coverImage: false
 ---
 
