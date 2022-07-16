@@ -1,13 +1,13 @@
 ---
-title: "Vacation Accounts #1"
+title: "Vacation Accounts"
 date: 2022-02-03
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: images/egyptian_musuem.png
+thumbnailImage: images/egyptian_musuem.jpg
 coverImage: false
 ---
 
-This is the first of a series for my Spring Break! Destination: Rosicrucian Egyptian Museum at San Jose!
+This is a quick post for my Spring Break! Destination: Rosicrucian Egyptian Museum at San Jose!
 
 <!--more-->
 
@@ -24,3 +24,4 @@ There was a whole gallery dedicated to Alchemy back then. In the image below, th
 Posted below are some images of the garden and some cool models. See you in the next post!
 
 **Edit:** Images still being posted. Please wait patiently. They are expected at Thursday, May 26, but may be delayed
+**Edit:** Images will probably never be posted totally not bc im lazy, but... Dude, it's july 10th already
